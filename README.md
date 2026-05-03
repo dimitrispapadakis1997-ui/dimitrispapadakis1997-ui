@@ -48,6 +48,9 @@ My background gives me a unique edge: I understand what's happening *under the h
 - [ ] **AZ-900** — Azure Fundamentals *(in progress)*
 - [ ] **AZ-700** — Azure Network Engineer Associate
 - [ ] **AWS Cloud Practitioner**
+- ✅ **[Introduction to Claude Cowork](https://verify.skilljar.com/c/nhjyfq7hc5zg)** — Anthropic (Apr 2026)
+- ✅ **[Claude Code 101](https://verify.skilljar.com/c/8zowk7qhu83w)** — Anthropic (Apr 2026)
+- ✅ **Claude 101** — Anthropic (Apr 2026)
 - ✅ **MikroTik Routing & Switching** (2024)
 - ✅ IT Service Management & GDPR — I.I.E.K ALFA
 - ✅ Foundations of Joomla, WordPress & SEO — I.I.E.K ALFA
