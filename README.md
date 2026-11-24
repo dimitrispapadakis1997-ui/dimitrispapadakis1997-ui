@@ -23,6 +23,7 @@ My background gives me an edge: I understand what's happening *under the hood* o
 ## ☁️ What I'm Building in Cloud
 
 - Hybrid identity: on-prem Active Directory synced to Microsoft Entra ID
+- Microsoft 365 security: Intune device management, MFA and Conditional Access
 - Virtual networks, subnets, and VPN connectivity in Azure
 - Infrastructure as Code with **Terraform**
 - Monitoring, alerts, and cost control
@@ -34,6 +35,7 @@ My background gives me an edge: I understand what's happening *under the hood* o
 | Project | Description | Stack | Status |
 |---|---|---|---|
 | [Hybrid Identity Lab](https://github.com/dimitrispapadakis1997-ui/hybrid-identity-lab) | On-prem Active Directory synced to Entra ID with Entra Connect and password hash sync, plus a domain-joined Windows 11 client | Windows Server 2022, Entra Connect, PowerShell, VirtualBox | ✅ Complete |
+| Microsoft 365 Endpoint & Access Security | Intune device enrollment and compliance policies, MFA and Conditional Access for the synced lab users, built on the Hybrid Identity Lab | Intune, Entra ID, Conditional Access, PowerShell | 🚧 In progress |
 | Azure Hub-and-Spoke + VPN to MikroTik | Hub-and-spoke network with a site-to-site VPN to a MikroTik router | Azure, Terraform | 📝 Planned |
 | Infrastructure CI/CD & Monitoring | Terraform deployed through GitHub Actions, with alerts and budget control | Terraform, GitHub Actions, Azure Monitor | 📝 Planned |
 
