@@ -33,7 +33,7 @@ My background gives me an edge: I understand what's happening *under the hood* o
 
 | Project | Description | Stack | Status |
 |---|---|---|---|
-| Hybrid Identity Lab | On-prem Active Directory synced to Entra ID with SSO, MFA and Conditional Access | Windows Server, Entra Connect, PowerShell | 🚧 In progress |
+| [Hybrid Identity Lab](https://github.com/dimitrispapadakis1997-ui/hybrid-identity-lab) | On-prem Active Directory synced to Entra ID with Entra Connect and password hash sync, plus a domain-joined Windows 11 client | Windows Server 2022, Entra Connect, PowerShell, VirtualBox | ✅ Complete |
 | Azure Hub-and-Spoke + VPN to MikroTik | Hub-and-spoke network with a site-to-site VPN to a MikroTik router | Azure, Terraform | 📝 Planned |
 | Infrastructure CI/CD & Monitoring | Terraform deployed through GitHub Actions, with alerts and budget control | Terraform, GitHub Actions, Azure Monitor | 📝 Planned |
 
