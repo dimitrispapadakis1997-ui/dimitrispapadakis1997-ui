@@ -35,9 +35,7 @@ My background gives me an edge: I understand what's happening *under the hood* o
 | [Hybrid Identity Lab](https://github.com/dimitrispapadakis1997-ui/hybrid-identity-lab) | On-prem Active Directory synced to Entra ID with Entra Connect and password hash sync, plus a domain-joined Windows 11 client | Windows Server 2022, Entra Connect, PowerShell, VirtualBox | ✅ Complete |
 | [Azure Network Foundation with Terraform](https://github.com/dimitrispapadakis1997-ui/azure-network-foundation) | Hub-and-spoke network in Azure, defined as code: virtual networks, peering, network security groups and remote state, in separate dev and prod environments, deployed from GitHub Actions with OIDC (no stored secrets) | Azure, Terraform, GitHub Actions | ✅ Complete |
 | [Infrastructure CI/CD & Monitoring](https://github.com/dimitrispapadakis1997-ui/azure-cicd-monitoring) | Terraform deployed through GitHub Actions: security scan, plan posted on pull requests, production apply behind a manual approval, daily drift detection, Azure Monitor alerts and a budget alert | Terraform, GitHub Actions, Checkov, Azure Monitor | ✅ Complete |
-| Azure Governance & Cost Audit | A Python script that finds idle resources, missing tags and risky access settings in an Azure subscription and writes a report | Python, Azure SDK | 📝 Planned |
-
-> Links will be added as each repository goes live.
+| [Azure Governance & Cost Audit](https://github.com/dimitrispapadakis1997-ui/azure-governance-audit) | A Python tool that audits an Azure subscription for open network rules, public storage, idle billed resources and missing tags, and publishes a report from GitHub Actions every week | Python, Azure SDK, GitHub Actions | ✅ Complete |
 
 ---
 
