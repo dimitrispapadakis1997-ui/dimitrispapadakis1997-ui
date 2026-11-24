@@ -16,7 +16,6 @@ My background gives me an edge: I understand what's happening *under the hood* o
 - Active Directory, Microsoft 365 administration, and Windows Server
 - Physical infrastructure: rack installation, CAT6 cabling, server rooms
 - IT support & helpdesk (hardware, software, end-user support)
-- MikroTik Routing & Switching (certified 2024)
 
 ---
 
@@ -24,8 +23,8 @@ My background gives me an edge: I understand what's happening *under the hood* o
 
 - Hybrid identity: on-prem Active Directory synced to Microsoft Entra ID
 - Microsoft 365 security: Intune device management, MFA and Conditional Access
-- Virtual networks, subnets, and VPN connectivity in Azure
-- Infrastructure as Code with **Terraform**
+- Azure networking: virtual networks, hub-and-spoke, network security groups
+- Infrastructure as Code with **Terraform**, deployed through **GitHub Actions**
 - Monitoring, alerts, and cost control
 
 ---
@@ -36,8 +35,9 @@ My background gives me an edge: I understand what's happening *under the hood* o
 |---|---|---|---|
 | [Hybrid Identity Lab](https://github.com/dimitrispapadakis1997-ui/hybrid-identity-lab) | On-prem Active Directory synced to Entra ID with Entra Connect and password hash sync, plus a domain-joined Windows 11 client | Windows Server 2022, Entra Connect, PowerShell, VirtualBox | ✅ Complete |
 | Microsoft 365 Endpoint & Access Security | Intune device enrollment and compliance policies, MFA and Conditional Access for the synced lab users, built on the Hybrid Identity Lab | Intune, Entra ID, Conditional Access, PowerShell | 🚧 In progress |
-| Azure Hub-and-Spoke + VPN to MikroTik | Hub-and-spoke network with a site-to-site VPN to a MikroTik router | Azure, Terraform | 📝 Planned |
-| Infrastructure CI/CD & Monitoring | Terraform deployed through GitHub Actions, with alerts and budget control | Terraform, GitHub Actions, Azure Monitor | 📝 Planned |
+| Azure Network Foundation with Terraform | Hub-and-spoke network in Azure, defined as code: virtual networks, peering, network security groups and remote state, in separate dev and prod environments | Azure, Terraform | 📝 Planned |
+| Infrastructure CI/CD & Monitoring | Terraform deployed through GitHub Actions (plan on pull request, apply on merge, policy checks), with alerts and budget control | Terraform, GitHub Actions, Azure Monitor | 📝 Planned |
+| Azure Governance & Cost Audit | A Python script that finds idle resources, missing tags and risky access settings in an Azure subscription and writes a report | Python, Azure SDK | 📝 Planned |
 
 > Links will be added as each repository goes live.
 
@@ -63,7 +63,7 @@ My background gives me an edge: I understand what's happening *under the hood* o
 
 **Networking**
 
-![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=flat) ![VLANs](https://img.shields.io/badge/VLANs-grey?style=flat) ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-grey?style=flat) ![DNS/DHCP](https://img.shields.io/badge/DNS%20%2F%20DHCP-grey?style=flat) ![Firewalls](https://img.shields.io/badge/Firewalls-grey?style=flat) ![VPN](https://img.shields.io/badge/VPN-green?style=flat)
+![VLANs](https://img.shields.io/badge/VLANs-grey?style=flat) ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-grey?style=flat) ![DNS/DHCP](https://img.shields.io/badge/DNS%20%2F%20DHCP-grey?style=flat) ![Firewalls](https://img.shields.io/badge/Firewalls-grey?style=flat) ![VPN](https://img.shields.io/badge/VPN-green?style=flat)
 
 **Microsoft**
 
