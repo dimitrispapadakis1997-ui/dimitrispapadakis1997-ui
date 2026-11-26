@@ -59,7 +59,7 @@ My background gives me an edge: I understand what's happening *under the hood* o
 
 ![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=flat) ![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=flat) ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D4?style=flat)
 
-**Cloud (Learning)**
+**Cloud**
 
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
 
