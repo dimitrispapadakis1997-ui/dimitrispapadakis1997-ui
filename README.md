@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dimitris Papadakis
 
-### Network Infrastructure Engineer → Cloud Engineer ☁️
+### Network & Cloud Infrastructure Engineer ☁️
 
 I'm a network infrastructure engineer based in **Trondheim, Norway** 🇳🇴, with hands-on experience in routing, switching, firewalls, Active Directory and Microsoft 365. I also work in cloud infrastructure, **Azure first**.
 
