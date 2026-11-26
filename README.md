@@ -47,9 +47,6 @@ My background gives me an edge: I understand what's happening *under the hood* o
 - ✅ [**Claude Code 101**](https://verify.skilljar.com/c/8zowk7qhu83w): Anthropic (Apr 2026)
 - ✅ IT Service Management & GDPR: I.I.E.K ALFA
 
-**In progress**
-- 🔄 **AZ-900**: Azure Fundamentals
-
 **Planned**
 - 📝 **AZ-104**: Azure Administrator
 
