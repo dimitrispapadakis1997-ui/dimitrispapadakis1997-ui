@@ -2,7 +2,7 @@
 
 ### Network Infrastructure Engineer → Cloud Engineer ☁️
 
-I'm a network infrastructure engineer based in **Trondheim, Norway** 🇳🇴, with hands-on experience in routing, switching, firewalls, Active Directory and Microsoft 365. I'm now moving into cloud infrastructure, **Azure first**.
+I'm a network infrastructure engineer based in **Trondheim, Norway** 🇳🇴, with hands-on experience in routing, switching, firewalls, Active Directory and Microsoft 365. I also work in cloud infrastructure, **Azure first**.
 
 My background gives me an edge: I understand what's happening *under the hood* of cloud networking and identity, not just the console buttons.
 
@@ -19,7 +19,7 @@ My background gives me an edge: I understand what's happening *under the hood* o
 
 ---
 
-## ☁️ What I'm Building in Cloud
+## ☁️ What I Build in Cloud
 
 - Hybrid identity: on-prem Active Directory synced to Microsoft Entra ID
 - Azure networking: virtual networks, hub-and-spoke, network security groups
